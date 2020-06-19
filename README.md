@@ -1,6 +1,6 @@
 # Sequência de Fibonacci
 
-Este código foi utilizado para resolver o 1º Desafio do aceleraDev Java da ##### Codenation.
+Este código foi utilizado para resolver o 1º Desafio do aceleraDev Java da **[Codenation](https://www.codenation.dev/)**.
 
 O método `"Fibonacci"` retorna uma lista `java.util.List` com os primeiro elementos da sequência de *Fibonacci* até *350*.
 
