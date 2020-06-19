@@ -1,5 +1,7 @@
 # Sequência de Fibonacci
 
+Este código foi utilizado para resolver o 1º Desafio do aceleraDev Java da ##### Codenation.
+
 O método `"Fibonacci"` retorna uma lista `java.util.List` com os primeiro elementos da sequência de *Fibonacci* até *350*.
 
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
