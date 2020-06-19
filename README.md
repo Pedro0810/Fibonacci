@@ -11,7 +11,7 @@ Caso o número recebido por parâmetro esteja entre os números da sequência de
 
 ## Recursos Utilizados
 
-Neste desafio foi utilizado os seguintes recursos:
+Neste desafio foram utilizados os seguintes recursos:
 
 - Variáveis e métodos
 - Operadores matemáticos
